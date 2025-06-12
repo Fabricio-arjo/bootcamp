@@ -49,7 +49,7 @@ while True:
         elif numero_saques >=LIMITE_SAQUES:
             print("Limite de saques diário, atingido !")
 
-        elif saldo > 0:
+        elif valor > 0:
 
             saldo-=valor
             numero_saques+=1
