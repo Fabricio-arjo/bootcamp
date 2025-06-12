@@ -33,7 +33,7 @@ while True:
         
     elif opcao == "s":
         """
-            1. Permitir 3 saques diários com limite de R$500,00 por saque
+            1. Permitir 3 saques diários com limite de R$500,00 por saque.
             2. Emitir mensagem quando o não houver saldo disponível.
             3. Saques armazenados em uma variável e exibir no extrato.
         """
